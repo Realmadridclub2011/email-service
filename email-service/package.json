@@ -1,8 +1,0 @@
-{
-  "name": "email-service",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "nodemailer": "^6.9.14"
-  }
-}
